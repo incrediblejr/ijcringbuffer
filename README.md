@@ -1,4 +1,4 @@
-ijcringbuffer.h - v0.01 - public domain - @incrediblejr, Dec 2015
+ijcringbuffer.h - v0.01 - public domain - [@incrediblejr][4], Dec 2015
 
 no warranty implied; use at your own risk
 
@@ -44,6 +44,7 @@ start of the buffer (essentially doing a buffer reset).
 [1]: https://fgiesen.wordpress.com/2012/07/21/the-magic-ring-buffer/
 [2]: https://twitter.com/rygorous
 [3]: https://github.com/nothings/stb
+[4]: https://twitter.com/incrediblejr
 
 LICENSE
 
